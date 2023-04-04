@@ -1,0 +1,3 @@
+# DeathCalculator
+
+Simple fictional calculator
